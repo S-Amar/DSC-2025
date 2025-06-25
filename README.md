@@ -6,10 +6,10 @@
 
 <div align="center">
 
+[![Alt Text](ex_vis.png)](https://huggingface.co/datasets/Amar-S/MOVi-MC-AC)
+
 **Full Dataset Release:**  
 [**MOVi-MC-AC**](https://huggingface.co/datasets/Amar-S/MOVi-MC-AC)
-
-[![Alt Text](ex_vis.png)](https://huggingface.co/datasets/Amar-S/MOVi-MC-AC)
 
 </div>
 
