@@ -6,9 +6,7 @@
 
 Full Dataset Release: [MOVi-MC-AC](https://huggingface.co/datasets/Amar-S/MOVi-MC-AC)
 
-<a href="https://huggingface.co/datasets/Amar-S/MOVi-MC-AC">
-  <img src="ex_vis.mp4" />
-</a>
+[![](ex_vis.mp4](https://huggingface.co/datasets/Amar-S/MOVi-MC-AC)
 
 Welcome to the **2025 Lawrence Livermore National Laboratory Data Science Challenge!**
 
