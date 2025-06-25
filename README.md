@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 Welcome to the **2025 Lawrence Livermore National Laboratory Data Science Challenge!**
 
 Launch Presentation consists of:
