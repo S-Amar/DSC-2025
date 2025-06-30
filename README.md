@@ -16,7 +16,7 @@
 
 Welcome to the **2025 Lawrence Livermore National Laboratory Data Science Challenge!**
 
-> ⚠️ **Warning: Currently, the repo will not clone LFS files due to storage constraints, update coming soon.** ⚠️
+> ⚠️ **[WARNING] Currently, the repo will not clone LFS files due to storage constraints, update coming soon.** ⚠️
 
 Be sure to `git-lfs install` before cloning the repo, otherwise the large files (managed by LFS) won't be cloned properly!
 
