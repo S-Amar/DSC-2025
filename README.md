@@ -16,6 +16,15 @@
 
 Welcome to the **2025 Lawrence Livermore National Laboratory Data Science Challenge!**
 
+> **PSA: Currently, the repo will not clone LFS files due to storage constraints, update coming soon.**
+
+Be sure to `git-lfs install` before cloning the repo, otherwise the large files (managed by LFS) won't be cloned properly!
+
+```
+git-lfs install
+git clone https://github.com/S-Amar/DSC-2025.git
+```
+
 Launch Presentation consists of:
 - (1) High-Level overview **(Short Slidedeck)** of current state-of-the-art methods for a variety of tasks
 - (2) High-Level overview **(Dataset Card)** of MOVi-MC-AC
